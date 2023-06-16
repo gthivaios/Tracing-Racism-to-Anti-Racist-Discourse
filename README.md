@@ -11,5 +11,4 @@ Continuously to the above theoretical background, we would like to make a prelim
 
 ### Dataset
 The dataset consists of texts from a variety of sources
-
-https://traceprojectwiki.miraheze.org/wiki/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Elidek.png
+![ΕΛΙΔΕΚ](https://traceprojectwiki.miraheze.org/wiki/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:Elidek.png)
