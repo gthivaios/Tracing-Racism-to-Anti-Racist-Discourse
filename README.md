@@ -35,8 +35,8 @@ We created a similarity heatmap for the liquid racism text and the purely antira
 
 Based on word frequency as this is captured in the wordcloud and on the tf-idf measure which indicates the word importance we can mention the following points:
 
-- Regarding the texts of liquid racism, we notice that words referring to the nation-state ('χώρα', 'Ελλάδα') and words referring to a place of detention ('δομή') predominate.
-- Regarding the purely anti-racist texts, we notice that words denoting care, collectivity and solidarity dominate ('παιδί', 'κοινωνία', 'φαγητό', 'νερό')
+- Regarding the texts of liquid racism, we notice that words referring to the nation-state ('χώρα(country)', 'Ελλάδα(Greece)') and words referring to a place of detention ('δομή(structure)') predominate.
+- Regarding the purely anti-racist texts, we notice that words denoting care, collectivity and solidarity dominate ('παιδί(child)', 'κοινωνία(society)', 'φαγητό(food)', 'νερό(water)')
 
 ## Future Research Challenges
 
