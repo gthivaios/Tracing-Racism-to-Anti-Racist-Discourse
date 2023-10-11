@@ -40,6 +40,9 @@ Based on word frequency as this is captured in the wordcloud and on the tf-idf m
 
 ## Future Research Challenges
 
+- Guidance with linguistic analysis in order to find specific phrase patterns that indicates the liquid racism or the pure antiracism speech.
+- Due to the fact, we have an imbalanced dataset, it would be a good idea to run an unsupervised analysis and detect the smaller category as outliers.(https://medium.datadriveninvestor.com/unsupervised-outlier-detection-in-text-corpus-using-deep-learning-41d4284a04c8)
+- Graph Based Represenation: Investigate the importance of a term into a whole corpus of documents by utilizing contemporary graph theory methods, such as community detection algorithms and node centrality measures.(https://link.springer.com/chapter/10.1007/978-3-030-49161-1_9)
 
 ## Used Tools/Technologies
 
